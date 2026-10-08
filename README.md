@@ -181,6 +181,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 ### Research
   * [i2b2](https://www.i2b2.org) - Research data warehouse.
   * [LabKey Server](https://www.labkey.com/products-services/labkey-server/) - Platform for Translational Research.
+  * [SIDHA](https://github.com/developer-rpai/sidha) - Open data architecture for hidradenitis suppurativa research: EHR ingestion, computable phenotypes, diagnostic-delay analytics on OMOP CDM + FHIR R4.
 
 ### Integration
   * [FHIR Converter](https://github.com/microsoft/FHIR-Converter) - an open source project that enables conversion of health data from legacy formats to FHIR.
